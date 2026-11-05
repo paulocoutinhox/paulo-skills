@@ -28,7 +28,11 @@ Edited source, current AGENTS.md, affected documentation where needed, and a fac
 
 ## Decisions and limits
 
-Profiles cover Python, Swift, Kotlin, C++, JavaScript/TypeScript, Vue, React, and Angular. Other languages require current official research. Owner preferences are separate from language requirements. Data destruction or external release is not implied by refactoring.
+Profiles cover Python, Swift, Kotlin, C++, Rust, Lua, Markdown, JavaScript/TypeScript, Vue, React, and Angular. Other languages require current official research. Owner preferences are separate from language requirements. Data destruction or external release is not implied by refactoring.
+
+- [Rust](../skills/code-developer/references/rust.md): Cargo and toolchain constraints, ownership, errors, unsafe boundaries, concurrency, and workspace verification.
+- [Lua](../skills/code-developer/references/lua.md): interpreter/host selection, modules, table and false/nil behavior, resources, and compatible static tooling.
+- [Markdown](../skills/code-developer/references/markdown.md): dialect selection, document structure, links, code examples, metadata, and rendered-output checks.
 
 ## Detailed instructions
 

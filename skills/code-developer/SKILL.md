@@ -1,6 +1,6 @@
 ---
 name: code-developer
-description: Implement and refactor production code with explicit behavior, readable structure, current architecture guidance, and language-specific standards. Use for development tasks in existing or new repositories, including Python, Swift, Kotlin, C++, JavaScript, TypeScript, Vue, React, and Angular.
+description: Implement and refactor production code and technical documentation with explicit behavior, readable structure, current architecture guidance, and language-specific standards. Use for development tasks in existing or new repositories, including Python, Swift, Kotlin, C++, Rust, Lua, Markdown, JavaScript, TypeScript, Vue, React, and Angular.
 license: MIT
 ---
 
@@ -14,6 +14,9 @@ Edit the actual source files and complete the requested behavior. Apply [the gen
 | Swift and Apple apps | [Swift](references/swift.md) |
 | Kotlin and Android | [Kotlin](references/kotlin.md) |
 | C++ | [C++](references/cpp.md) |
+| Rust | [Rust](references/rust.md) |
+| Lua | [Lua](references/lua.md) |
+| Markdown documentation | [Markdown](references/markdown.md), plus the relevant language profile for changed code examples |
 | JavaScript or TypeScript | [JavaScript and TypeScript](references/javascript-typescript.md) |
 | Vue | [Vue](references/vue.md), plus JavaScript or TypeScript |
 | React | [React](references/react.md), plus JavaScript or TypeScript |

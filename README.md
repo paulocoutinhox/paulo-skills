@@ -35,7 +35,7 @@ user's authorization.
 | --- | --- | --- |
 | `skill-creator` | Research, author, update, and validate portable skills. | [Usage](docs/skill-creator.md) |
 | `book-creator` | Typeset books and A4 workbooks, prepare white-page interiors and complete cover packages. | [Usage](docs/book-creator.md) |
-| `code-developer` | Implement clear production code with focused language and framework profiles. | [Usage](docs/code-developer.md) |
+| `code-developer` | Implement clear production code and documentation, including Rust, Lua, and Markdown profiles. | [Usage](docs/code-developer.md) |
 | `git` | Prepare branches and one reviewed commit with task-aware naming. | [Usage](docs/git.md) |
 | `npm-library` | Build and test npm libraries with automatic OIDC publication. | [Usage](docs/npm-library.md) |
 | `pypi-library` | Build and test Python distributions with automatic trusted publication. | [Usage](docs/pypi-library.md) |
