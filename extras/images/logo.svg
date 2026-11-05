@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-labelledby="title desc">
+  <title id="title">Paulo Skills</title>
+  <desc id="desc">A layered open book and a bright four-point spark beside the Paulo Skills wordmark.</desc>
+  <defs>
+    <linearGradient id="cover" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbbf24"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="804" height="264" rx="42" fill="#f8fafc"/>
+  <path d="M72 112 139 89 204 112v101l-65-22-67 22z" fill="url(#cover)"/>
+  <path d="m86 113 53-17 51 17v78l-51-17-53 17z" fill="#fff"/>
+  <path d="M139 97v77" fill="none" stroke="#cbd5e1" stroke-width="4"/>
+  <path d="m99 124 24-8m-24 25 24-8m32-17 22 8m-22 9 22 8" fill="none" stroke="#64748b" stroke-width="4" stroke-linecap="round"/>
+  <path d="m210 58 10 26 26 10-26 10-10 26-10-26-26-10 26-10z" fill="url(#spark)"/>
+  <text x="278" y="154" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="700" letter-spacing="-2">Paulo Skills</text>
+  <text x="281" y="193" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">REUSABLE KNOWLEDGE. REAL WORK.</text>
+</svg>
